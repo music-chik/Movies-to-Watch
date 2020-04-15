@@ -3,45 +3,45 @@ List of movies to watch...If there is more than one version place the date of pr
 
 
 
-Hudson Hawk
-It's a Mad *4 World
-Guess Whose Coming to Dinner
-In The Heat of the Night
-Dredd (2012)
-Operation Petticoat
-51st State
-Long Kiss Goodnight
-Bad Lt (Nicholas Cage)
-Mean Streets
-Donnie Brasco
-Insomnia (2002)
-Argo
-Sea of Love
-Barton Fink
-The Hudsucker Proxy
-Arizona Junior
-8mm
-Heartbreak Ridge
-Vampire's Kiss
-Death Wish (1974)
-The Host
-Castaway on the Moon
-For a Fistful of Dollars
-For a Few Dollars More
-The Good, The bad and The Ugly
-Furie (2019)
-The Leopard
-In China They Eat Dogs
-Old Men in New Cars
-Out of Sight
-A Bout Pourtant
-Point Blank (2019)
-Pour Elle
-The Next 3 Days
-Ronin
-The Jackal (1997)
-7 Samurai
-Postman
-Robin Hood (KevinCostner)
-Waterworld
-Last Man Standing
+Hudson Hawk.
+It's a Mad *4 World.
+Guess Whose Coming to Dinner.
+In The Heat of the Night.
+Dredd (2012).
+Operation Petticoat.
+51st State.
+Long Kiss Goodnight.
+Bad Lt (Nicholas Cage).
+Mean Streets.
+Donnie Brasco.
+Insomnia (2002).
+Argo.
+Sea of Love.
+Barton Fink.
+The Hudsucker Proxy.
+Arizona Junior.
+8mm.
+Heartbreak Ridge.
+Vampire's Kiss.
+Death Wish (1974).
+The Host.
+Castaway on the Moon.
+For a Fistful of Dollars.
+For a Few Dollars More.
+The Good, The bad and The Ugly.
+Furie (2019).
+The Leopard.
+In China They Eat Dogs.
+Old Men in New Cars.
+Out of Sight.
+A Bout Pourtant.
+Point Blank (2019).
+Pour Elle.
+The Next 3 Days.
+Ronin.
+The Jackal (1997).
+7 Samurai.
+Postman.
+Robin Hood (KevinCostner).
+Waterworld.
+Last Man Standing.
